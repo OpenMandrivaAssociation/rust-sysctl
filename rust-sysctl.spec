@@ -1,4 +1,4 @@
-%bcond_without check
+%bcond_with check
 %global debug_package %{nil}
 
 %global crate sysctl
